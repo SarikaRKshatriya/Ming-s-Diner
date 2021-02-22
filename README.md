@@ -1,4 +1,4 @@
-# Ming-s-Diner
+# Mings-Diner
 
 built a website for restaurant named Ming’s Diner. The website provides the users a brief overview of the restaurant and its bestsellers, its address, as well as an option to contact the restaurant.Tasks performed are:
 
